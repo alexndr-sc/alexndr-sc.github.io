@@ -24,13 +24,13 @@ repository               : "alexndr-sc/alexndr-sc.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Alexandre Sampaio da Cruz"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Rio de Janeiro, Brasil"
+  employer         : "Universidade Federal do Rio de Janeiro"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alexndr@ufrj.br" 
 
   # Academic websites
   academia         : # URL
