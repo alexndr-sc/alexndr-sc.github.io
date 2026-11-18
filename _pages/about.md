@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Sobre mim"
+title: "Olá!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Olá! 
+
+Bem vinda/o/e à minha página! 
