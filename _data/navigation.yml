@@ -1,4 +1,4 @@
-# The following is the order of the links in the header of the website.
+k# The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -17,5 +17,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  # url: /markdown/
