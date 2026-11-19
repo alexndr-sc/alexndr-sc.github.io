@@ -45,6 +45,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  lattes           : "teste.com" # URL
 
 
   # Repositories and software development
