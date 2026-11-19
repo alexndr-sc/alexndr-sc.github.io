@@ -8,6 +8,7 @@ date: 2026-11-18
 location: Rio de Janeiro
 ---
 
+Disciplina ofertada pelo Prof. Antonio Augusto Passos Videira (UERJ) com assistência de Alexandre Sampaio da Cruz (Estágio Docência).
 
 Resumo
 ======
