@@ -23,14 +23,22 @@ Cronograma
 **Bibliografia:**  
   
 Michel PATY e Jean-Jacques SZCZECINIAR, _Jacques Merleau-Ponty, philosophe de la cosmologie contemporaine_;  
-Jacques MERLEAU-PONTY, _Rebirth of Cosmology_, Introdução.   
 Anastasios BRENNER, _Epistemology Historicized: The French Tradition_.  
 
 # Bloco 1: A Cosmologia dos Antigos
 
-**Aula 1 (25/11)**:
+**Aulas 3-5 (30/11, 02/12 e 07/11)**:
+
+**Bibliografia**  
+  
+Jacques MERLEAU-PONTY, _Rebirth of Cosmology_, Part one. 
+
+# Bloco 2: Revolução Científica, A Ciência Clássica e o Declínio da Cosmologia
+
+_[[em construção]]_
+
+# Bloco 3:
+
+_[[em construção]]_
 
 
-
-Bibliografia
-======
