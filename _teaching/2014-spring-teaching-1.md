@@ -28,7 +28,7 @@ Cronograma
 
 # Bloco 1: A Cosmologia dos Antigos
 
-**Aulas 3-5 (30/11, 02/12 e 07/11)**:
+**Aulas 3-5 (30/11, 02/12 e 07/11)**: A Cosmologia dos Antigos, aspectos filosóficos e científicos. 
 
 **Bibliografia**  
   
