@@ -18,7 +18,7 @@ Cronograma
 
 # Bloco 1: Introdução
 
-**Aulas 1 e 2 (23/11 e  25/11)**: Apresentação do curso, apresentação de Jacques-Merleau Ponty e da epistemologia francesa. O que é cosmologia?
+**Aulas 1 e 2 (23/11 e  25/11)**: Apresentação do curso. Apresentação de Jacques-Merleau Ponty e da Epistemologia Francesa. O que é cosmologia?
 
 **Bibliografia:**  
   
