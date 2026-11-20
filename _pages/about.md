@@ -15,7 +15,7 @@ Meu nome é Alexandre. Sou bacharel em Física e Astronomia pela UFRJ e mestre e
 Meus principais interesses são:
 
 - Cosmologia física enquanto ciência, aspectos históricos e epistemológicos
-- História da Filosofia da Ciência
+- Filosofia da Ciência: História da filosofia da ciência, a filosofia da ciência produzida pelos físicos.
 - História da Física no Brasil
 
 
