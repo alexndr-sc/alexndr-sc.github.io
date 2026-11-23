@@ -25,7 +25,7 @@ Cronograma
 **Bibliografia:**  
 
 Jacques **MERLEAU-PONTY** e Bruno **MORANDO**, _Rebirth of Cosmology_, Introduction.  
-Michel **PATY** e Jean-Jacques **SZCZECINIAR**, _Jacques Merleau-Ponty (1916-2002): le regard d’un philosophe sur lacosmologie contemporaine_.  _(opcional)_  
+Michel **PATY** e Jean-Jacques **SZCZECINIAR**, _Jacques Merleau-Ponty (1916-2002): le regard d’un philosophe sur la cosmologie contemporaine_.  _(opcional)_  
 Anastasios **BRENNER**, _Epistemology Historicized: The French Tradition_.  _(opcional)_
 
 # Bloco 1: A Cosmologia dos Antigos
