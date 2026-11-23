@@ -30,15 +30,25 @@ Anastasios **BRENNER**, _Epistemology Historicized: The French Tradition_.  _(op
 
 # Bloco 1: A Cosmologia dos Antigos
 
-**Aulas 3-5 (30/11, 02/12 e 07/11)**: A Cosmologia dos Antigos, aspectos filosóficos e científicos. 
+**Aulas 3-5 (30/11, 02/12 e 07/12)**: A Cosmologia dos Antigos, aspectos filosóficos e científicos. 
 
 **Bibliografia**  
   
 Jacques **MERLEAU-PONTY** e Bruno **MORANDO**, _Rebirth of Cosmology_, Part one. 
+E. R. **Harrison**. Cosmology: the science of the universe, Three cosmic systems of the Ancient World.  _(opcional)_  
 
 # Bloco 2: Revolução Científica, A Ciência Clássica e o Declínio da Cosmologia
 
-_[[em construção]]_
+Aula 6 e 7 (12/12 e 14/12): Revolução Copernicana
+
+Norriss S *Hetherington. _Cosmology: Historical, Literary, Philosophical, Religious, and Scientific Perspectives_. Cap. 8 Copernicus _(opcicional)_ e Cap. 11 A New Physics and a New Cosmology.
+Alexandre **Koyré**. Do mundo fechado ao universo infinito, Cap. 2 A Nova Astronomia e a Nova Metafísica. _(opcicional)_
+
+Recesso
+
+Aula 8 (25/01)  
+
+
 
 # Bloco 3:
 
