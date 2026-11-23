@@ -23,10 +23,10 @@ Cronograma
 **Aulas 1 e 2 (23/11 e  25/11)**: Apresentação do curso. Apresentação de Jacques Merleau-Ponty e da Epistemologia Francesa. O que é cosmologia?
 
 **Bibliografia:**  
-  
-Michel **PATY** e Jean-Jacques **SZCZECINIAR**, _Jacques Merleau-Ponty, philosophe de la cosmologie contemporaine_.   
-Jacques **MERLEAU-PONTY**, _Rebirth of Cosmology_, Introduction.  
-Anastasios **BRENNER**, _Epistemology Historicized: The French Tradition_.  
+
+Jacques **MERLEAU-PONTY** e Bruno **MORANDO**, _Rebirth of Cosmology_, Introduction. 
+Michel **PATY** e Jean-Jacques **SZCZECINIAR**, _Jacques Merleau-Ponty (1916-2002): le regard d’un philosophe sur lacosmologie contemporaine_.  _(opcional)_  
+Anastasios **BRENNER**, _Epistemology Historicized: The French Tradition_. _(opcional)_
 
 # Bloco 1: A Cosmologia dos Antigos
 
@@ -34,7 +34,7 @@ Anastasios **BRENNER**, _Epistemology Historicized: The French Tradition_.
 
 **Bibliografia**  
   
-Jacques **MERLEAU-PONTY**, _Rebirth of Cosmology_, Part one. 
+Jacques **MERLEAU-PONTY** e Bruno **MORANDO**, _Rebirth of Cosmology_, Part one. 
 
 # Bloco 2: Revolução Científica, A Ciência Clássica e o Declínio da Cosmologia
 
