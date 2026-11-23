@@ -41,8 +41,8 @@ E. R. **Harrison**. Cosmology: the science of the universe, Three cosmic systems
 
 Aula 6 e 7 (12/12 e 14/12): Revolução Copernicana
 
-Norriss S **Hetherington**. _Cosmology: Historical, Literary, Philosophical, Religious, and Scientific Perspectives_. Cap. 8 Copernicus _(opcicional)_ e Cap. 11 A New Physics and a New Cosmology.  
-Alexandre **Koyré**. Do mundo fechado ao universo infinito, Cap. 2 A Nova Astronomia e a Nova Metafísica.  _(opcional)_  
+Norriss S **HETHERINGTON**. _Cosmology: Historical, Literary, Philosophical, Religious, and Scientific Perspectives_. Cap. 8 Copernicus _(opcicional)_ e Cap. 11 A New Physics and a New Cosmology.  
+Alexandre **KOYRÉ**. Do mundo fechado ao universo infinito, Cap. 2 A Nova Astronomia e a Nova Metafísica.  _(opcional)_  
   
   
 Recesso
