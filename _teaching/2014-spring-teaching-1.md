@@ -13,7 +13,7 @@ Disciplina ofertada pelo Prof. Antonio Augusto Passos Videira com assistência d
 Resumo
 ======
 
-Esse curso tem como proposta central a realização de uma análise histórica e filosófica sobre o estabelecimento da cosmologia enquanto área de investigação científica. A obra _Rebirth of Cosmology_ do filósofo francês Jacques Merleau-Ponty funcionará como fio condutor do curso.
+Esse curso tem como proposta central a realização de uma análise histórica e filosófica sobre o estabelecimento da cosmologia enquanto área de investigação científica. A obra _Rebirth of Cosmology_ do filósofo francês Jacques Merleau-Ponty funcionará como fio condutor do curso. Quartas e Sextas, das 8:50 às 10:30.
 
 Cronograma 
 ======
@@ -41,8 +41,9 @@ E. R. **Harrison**. Cosmology: the science of the universe, Three cosmic systems
 
 Aula 6 e 7 (12/12 e 14/12): Revolução Copernicana
 
-Norriss S **HETHERINGTON**. _Cosmology: Historical, Literary, Philosophical, Religious, and Scientific Perspectives_. Cap. 8 Copernicus _(opcicional)_ e Cap. 11 A New Physics and a New Cosmology _(opcicional)_.  
-Alexandre **KOYRÉ**. Do mundo fechado ao universo infinito, Cap. 2 A Nova Astronomia e a Nova Metafísica.  _(opcional)_  
+Norriss S **HETHERINGTON**. _Cosmology: Historical, Literary, Philosophical, Religious, and Scientific Perspectives_. _(opcional)_
+Cap. 8 Copernicus _(opcicional)_ e Cap. 11 A New Physics and a New Cosmology _(opcicional)_.  
+Alexandre **KOYRÉ**. Do mundo fechado ao universo infinito, Cap. 2 A Nova Astronomia e a Nova Metafísica.  
   
   
 Recesso
