@@ -8,13 +8,13 @@ date: 2026-11-18
 location: Rio de Janeiro
 ---
 
-Disciplina ofertada pelo Prof. Antonio Augusto Passos Videira com assistência de Alexandre Sampaio da Cruz (Estágio Docência).
+Disciplina ofertada pelo Prof. Antonio Augusto Passos Videira com assistência de Alexandre Sampaio da Cruz (Estágio Docência). Quartas e Sextas, das 8:50 às 10:30.
+
 
 Resumo
 ======
 
-Esse curso tem como proposta central a realização de uma análise histórica e filosófica sobre o estabelecimento da cosmologia enquanto área de investigação científica. A obra _Rebirth of Cosmology_ do filósofo francês Jacques Merleau-Ponty funcionará como fio condutor do curso. Quartas e Sextas, das 8:50 às 10:30.
-
+Esse curso tem como proposta central a realização de uma análise histórica e filosófica sobre o estabelecimento da cosmologia enquanto área de investigação científica. A obra _Rebirth of Cosmology_ do filósofo francês Jacques Merleau-Ponty funcionará como fio condutor do curso. 
 Cronograma 
 ======
 
