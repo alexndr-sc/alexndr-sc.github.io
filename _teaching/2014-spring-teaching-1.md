@@ -3,7 +3,7 @@ title: "Filosofia da Ciência II: O problema cosmológico, da filosofia natural 
 collection: teaching
 type: "Disciplina da Graduação"
 permalink: /ensino/Filosofia-da-Ciencia-II-2026-2
-venue: "Univerisdade do Estado do Rio de Janeiro, Instituto de Filosofia e Ciências Humanas"
+venue: "Universidade do Estado do Rio de Janeiro, Instituto de Filosofia e Ciências Humanas"
 date: 2026-11-18
 location: Rio de Janeiro
 ---
@@ -35,15 +35,16 @@ Anastasios **BRENNER**, _Epistemology Historicized: The French Tradition_.  _(op
 **Bibliografia**  
   
 Jacques **MERLEAU-PONTY** e Bruno **MORANDO**, _Rebirth of Cosmology_, Part one. 
-E. R. **Harrison**. Cosmology: the science of the universe, Three cosmic systems of the Ancient World.  _(opcional)_  
+E. R. **HARRISON**. Cosmology: the science of the universe, Three cosmic systems of the Ancient World.  _(opcional)_  
 
 # Bloco 2: Revolução Científica, A Ciência Clássica e o Declínio da Cosmologia
 
 Aula 6 e 7 (12/12 e 14/12): Revolução Copernicana
 
-Norriss S **HETHERINGTON**. _Cosmology: Historical, Literary, Philosophical, Religious, and Scientific Perspectives_. _(opcional)_
-Cap. 8 Copernicus _(opcicional)_ e Cap. 11 A New Physics and a New Cosmology _(opcicional)_.  
+
 Alexandre **KOYRÉ**. Do mundo fechado ao universo infinito, Cap. 2 A Nova Astronomia e a Nova Metafísica.  
+Norriss S **HETHERINGTON**. _Cosmology: Historical, Literary, Philosophical, Religious, and Scientific Perspectives_. _(opcional)_
+Cap. 8 Copernicus _(opcicional)_ e Cap. 11 A New Physics and a New Cosmology _(opcional)_.  
   
   
 Recesso
